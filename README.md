@@ -1,5 +1,7 @@
 # Connecting a Custom Domain to Vercel via Upperlink.ng
 
+> **Author:** Muhammad Ibrahim Umar
+
 ## Step 1: Register Your Domain on Upperlink
 
 1. Sign in to your **Upperlink dashboard** at [upperlink.ng](https://upperlink.ng)
